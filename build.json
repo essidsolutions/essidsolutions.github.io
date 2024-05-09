@@ -1,0 +1,5 @@
+{
+  "android": "https://example.com/android.apk",
+  "ios": "https://example.com/ios.ipa",
+  "windows": "https://example.com/windows.exe"
+}
